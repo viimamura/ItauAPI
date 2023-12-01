@@ -1,0 +1,8 @@
+C:\Users\Vitoria\Desktop\ItauAngularWebAPI\ItauAPI\ItauAPI\obj\Debug\net6.0\ItauAPI.csproj.AssemblyReference.cache
+C:\Users\Vitoria\Desktop\ItauAngularWebAPI\ItauAPI\ItauAPI\obj\Debug\net6.0\ItauAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitoria\Desktop\ItauAngularWebAPI\ItauAPI\ItauAPI\obj\Debug\net6.0\ItauAPI.AssemblyInfoInputs.cache
+C:\Users\Vitoria\Desktop\ItauAngularWebAPI\ItauAPI\ItauAPI\obj\Debug\net6.0\ItauAPI.AssemblyInfo.cs
+C:\Users\Vitoria\Desktop\ItauAngularWebAPI\ItauAPI\ItauAPI\obj\Debug\net6.0\ItauAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vitoria\Desktop\ItauAngularWebAPI\ItauAPI\ItauAPI\obj\Debug\net6.0\ItauAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vitoria\Desktop\ItauAngularWebAPI\ItauAPI\ItauAPI\obj\Debug\net6.0\ItauAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vitoria\Desktop\ItauAngularWebAPI\ItauAPI\ItauAPI\obj\Debug\net6.0\ItauAPI.sourcelink.json
